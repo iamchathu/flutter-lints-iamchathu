@@ -8,7 +8,7 @@ linter:
     - always_require_non_null_named_parameters
     # Too many false positives when with typedefs which has
     # types already defined.
-    - always_specify_types
+    # - always_specify_types
     - always_use_package_imports
     - annotate_overrides
     - avoid_annotating_with_dynamic
@@ -17,7 +17,7 @@ linter:
     - avoid_catching_errors
     - avoid_classes_with_only_static_members
     - avoid_double_and_int_checks
-    - avoid_dynamic_calls
+#    - avoid_dynamic_calls
     - avoid_empty_else
     - avoid_equals_and_hash_code_on_mutable_classes
     - avoid_escaping_inner_quotes
@@ -64,7 +64,7 @@ linter:
     - deprecated_consistency
     - diagnostic_describe_all_properties
     - directives_ordering
-    - do_not_use_environment
+#    - do_not_use_environment
     - empty_catches
     - empty_constructor_bodies
     - empty_statements
@@ -150,7 +150,7 @@ linter:
     - sized_box_for_whitespace
     - slash_for_doc_comments
     - sort_child_properties_last
-    - sort_constructors_first
+#    - sort_constructors_first
     - sort_pub_dependencies
     - sort_unnamed_constructors_first
     - test_types_in_equals
