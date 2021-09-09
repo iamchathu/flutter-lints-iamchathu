@@ -1,0 +1,12 @@
+name: flutter_lints_iamchathu
+description: Opinionated lints for Flutter apps, packages, and plugins to encourage good coding practices.
+version: 0.0.1-alpha
+homepage: https://github.com/iamchathu/flutter-lints-iamchathu
+repository: https://github.com/iamchathu/flutter-lints-iamchathu
+issue_tracker: https://github.com/iamchathu/flutter-lints-iamchathu/issues
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter_lints: ^1.0.4
