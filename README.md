@@ -63,7 +63,7 @@ linter:
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
 ```
-
+[Flutter]: https://flutter.dev
 [dart analyzer]: https://dart.dev/guides/language/analysis-options
 [Dart-enabled IDEs]: https://dart.dev/tools#ides-and-editors
 [package:lints]: https://pub.dev/packages/lints

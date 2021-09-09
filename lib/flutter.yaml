@@ -203,4 +203,4 @@ linter:
     # - noop_primitive_operations
     # - depend_on_referenced_packages
     # - library_private_types_in_public_api
-     - require_trailing_commas
+    - require_trailing_commas
